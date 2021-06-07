@@ -28,7 +28,7 @@ for i in range(1,51):
 
 test.show
 ```
-![Array List Example](resources/ArrayListExample.gif)
+![Array List Example](ArrayListExample.gif)
 
 ## Linked List
 
@@ -47,7 +47,7 @@ for i in range(97, 123):
     
 test.show
 ```
-![Linked List Example](resources/LinkedListExample.gif)
+![Linked List Example](LinkedListExample.gif)
 
 
 ## Graph
@@ -78,7 +78,7 @@ test.add('sleep', 'runmem')
 test.show
 ```
 
-![Graph Example](resources/GraphExample.png)
+![Graph Example](GraphExample.png)
 
 
 > Important Note: This package is a work in progress. These examples are a simple illustration of the simplicity of the package. Our aim is to make the package simple and intuitive.
