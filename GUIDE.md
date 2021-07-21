@@ -115,7 +115,7 @@ class graph:
 
         viz.show
 ```
-One can then utilise this visualise method created.
+One can then utilise this 'visualise' method created.
 
 ```python
 adjlist = {'0': ['1','4'],
@@ -126,6 +126,6 @@ adjlist = {'0': ['1','4'],
 test = graph(adjlist)
 test.visuliase('4')
 ```
-
+A similar approach can be followed to visualise any form of graph regardless of its implementation specifics.
 
 > Important Note: This package is a work in progress. These examples are a simple illustration of the simplicity of the package. Our aim is to make the package simple and intuitive.
