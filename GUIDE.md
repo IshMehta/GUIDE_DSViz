@@ -49,6 +49,19 @@ test.show
 ```
 ![Linked List Example](LinkedListExample.gif)
 
+## Tree
+
+Goal: Visualise a tree
+
+```python
+test = TreeV()
+
+test.add("a","b","c")
+test.add("b", left="d")
+test.add("d", right="e")
+test.show()
+```
+![TreeExample](TreeExample.jpg)
 
 ## Graph
 
