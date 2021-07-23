@@ -61,7 +61,8 @@ test.add("b", left="d")
 test.add("d", right="e")
 test.show()
 ```
-![TreeExample](TreeExample.jpg)
+
+<img src='TreeExample.PNG' width='500'/>
 
 ## Graph
 
